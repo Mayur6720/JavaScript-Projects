@@ -22,4 +22,4 @@ e.addEventListener('click', function(e){
         bluebox.style.backgroundColor = e.target.id
     }
 })
-  });
+});
